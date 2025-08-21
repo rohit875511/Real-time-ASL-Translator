@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 model/.DS_Store
 model/__pycache__
+model/keypoint_classifier/.DS_Store
