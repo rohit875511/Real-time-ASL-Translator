@@ -1,5 +1,6 @@
 This repo contains files allowing you to use, create data for, and retrain a real-time American Sign Language translator.
 How to Use:
+
 HomeDeviceApp.py - File which contains the code to run when you want to use the ASL Translator.
 
 Logger - File which allows you to add new data. To add new data run the file, enter what class number you are adding for (0-25 are currently taken by letters
